@@ -22,9 +22,9 @@
 
 # Here are some screenshots from our finished proyect as well the link to the web
 
-!["Horiseon Website"](../Homework-1/assets/screenshot/screenshot.jpg)
+!["Horiseon Website"](/assets/screenshot/screenshot.jpg)
 
-!["Horiseon Website"](../Homework-1/assets/screenshot/screenshot2.jpg)
+!["Horiseon Website"](/assets/screenshot/screenshot2.jpg)
 
 
 # link  https://angelmond.github.io/Homework-1/
